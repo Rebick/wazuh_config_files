@@ -1,0 +1,13 @@
+ncat:yellow
+nc:red
+tcpdump:orange
+wget:yellow
+curl:yellow
+git:yellow
+cat:orange
+ssh:red
+cron:red
+crontab:red
+rm:orange
+cp:yellow
+mv:red
